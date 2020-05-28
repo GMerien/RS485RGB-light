@@ -8,3 +8,6 @@ The slave boards are based on the arduino nano.
 
 https://easyeda.com/gregoiremerien/lt-rgb-master
 https://easyeda.com/gregoiremerien/lt-rgb-smd
+
+![Image](https://github.com/GMerien/RS485RGB-light/blob/master/IMG_20200528_141512.jpg)
+![Image](https://github.com/GMerien/RS485RGB-light/blob/master/IMG_20200528_141458.jpg)
